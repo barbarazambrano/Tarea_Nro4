@@ -1,0 +1,142 @@
+<html >
+  <head>
+  <style>
+  body{background-color: yellow; text-align: center;}
+
+div{background-color: yellow; float: rigth; border: solid 50px orangered; height: auto; text-align: center;}
+
+.noticia{width: "auto";}
+.imagen{width: "auto";}
+.productos{width: "auto";}
+table, tr, td, th{background-color: white; float: rigth;  text-align: center; border: solid 10px skyblue;}
+
+</style>
+  <body>
+  <h1>CANDIDA AURIS</h1>   
+  <div class="noticia">
+  <div class="imagen">
+  <img src="candida.jpg" border="10" alt="candida" width="auto" height="auto">
+  </div>
+  <div class="noticia">
+  <h1>Qué es el Candida auris, el misterioso hongo resistente a los medicamentos que se expande por el mundo (y ya llegó a América Latina)</h1>
+  <p class="justificado">
+  En 2015, Johanna Rhodes, especialista en enfermedades infecciosas del Imperial College London, recibió una llamada de emergencia de un hospital 
+a las afueras de Londres.¿La razón? Una infección que parecía resistente a los medicamentos se estaba extendiendo por el hospital sin que nadie
+supiera por qué."En aquel entonces la comunidad científica prácticamente no había oído hablar del Candida auris", le cuenta la especialista a 
+BBC Mundo. "En el hospital había un par de pacientes infectados con este germen pero no había parecido algo muy serio, hasta que se dieron cuenta 
+de que se había extendido por las paredes, por los muebles, por toda la superficie del hospital", recuerda. "Resultaba muy difícil de identificar 
+porque nadie sabía realmente lo que estaban buscando. Me llamaron para que les ayudase a averiguar cómo y por qué se estaba expandiendo", explica 
+Rhodes. Y el hongo no solo se estaba expandiendo por el hospital de Londres, sino a nivel mundial.<br><br>
+  
+  <h3>UN HONGO DIFERENTE</h3>
+  <p class="justificado">
+  El Candida auris, una especie de hongo que crece como levadura, fue identificado por primera vez hace una década.<br><br>
+  "No sabemos cuál es su origen pero fue descrito por primera vez en 2009 tras ser aislado del canal auditivo de un paciente de Corea del Sur", 
+explica Rhodes.
+"Unos años más tarde aparece en Japón y comienzan a surgir brotes en países como India, Sudáfrica, Venezuela, Estados Unidos, Reino Unido y 
+España", agrega.
+Janiel Nett, profesora asistente en el Departamento de Medicina y Microbiología Médica e Inmunología de la Universidad de Wisconsin, le dijo 
+a BBC Mundo que versiones diferentes del hongo comenzaron a aparecer en cuatro continentes al mismo tiempo. "Esta aparición casi simultánea 
+no tiene precedente", asegura Rhodes.
+"Y lo que más nos preocupa es que todas estas versiones han mostrado una fuerte resistencia a los medicamentos".
+El hongo que apareció en el hospital de Londres fue erradicado eventualmente, pero no fue fácil: el Candida auris es capaz de persistir en 
+el medio ambiente y puede sobrevivir en superficies inanimadas. Además, muchos de los desinfectantes que utilizan los servicios de salud no
+resultan efectivos contra este germen.
+"Varias salas tuvieron que permanecer cerradas durante meses y ser descontaminadas con brío", explica Rhodes.<br><br>
+  
+  <h3>RESISTENCIA A LA MEDICINA</h3>
+  <p class="justificado">
+  Los expertos en salud pública llevan décadas advirtiendo que el uso masivo de antibióticos está disminuyendo su eficacia. Y la aparición 
+del Candida auris demuestra que los hongos también se están volviendo cada vez más resistentes a los medicamentos. Los antibióticos y 
+antimicóticos sirven para combatir infecciones en las personas, pero este no es su único uso.
+Los antibióticos se emplean además para prevenir enfermedades en animales de granja y los antimicóticos también se utilizan como fungicida 
+en la agricultura. Y, para algunos científicos, este uso cada vez mayor de herbicidas y fungicidas está contribuyendo a la aparición de hongos 
+resistentes a los medicamentos entre las personas que consumen estos cultivos.
+La profesora Janiel Nett explica que más del 90 por ciento de las infecciones causadas por el Candida auris son resistentes al menos a un 
+medicamento, mientras que el 30 por ciento son resistentes a dos o más fármacos.
+"Hemos llegado a ver cómo esta resistencia se desarrolla en un mismo paciente a lo largo del tratamiento", agrega la investigadora Rhodes. 
+"Y parece que la resistencia del germen también se desarrolla a medida que se expande por el mundo".<br><br>
+  
+  <div class="imagen">
+  <img src="hospital.jpg" border="10" alt="hospital" width="auto" height="auto"><br><br>
+  </div>
+  
+  
+  <h3>TAMBIÉN EN AMÉRICA</h3>
+  <p class="justificado">
+  En Estados Unidos ya ha habido un total de 537 casos de Candida Auris, la mayoría en hospitales.
+Según los Centros para el Control y la Prevención de Enfermedades de EEUU, casi la mitad de los pacientes que contraen el Candida aurisfallecen 
+en noventa días.
+Pero aunque en el hospital de Londres también fallecieron varios de los pacientes infectados, Rhodes incide en que las personas sanas no 
+deberían preocuparse en exceso.
+Y sobre todo, no deberían dejar de ir al hospital por miedo a contraer la infección.
+"Estos pacientes ya estaban hospitalizados cuando desarrollaron el Candida auris y su sistema inmunológico se encontraba debilitado", 
+explica Rhodes."Así que es importante recordar que aunque murieron con la infección, eso no significa necesariamente que fallecieran debido a 
+ella", afirma.
+Venezuela es otro de los países donde se ha encontrado el Candida auris. En 2013 una unidad neonatal identificó este hongo en varios bebés 
+prematuros. "Ha habido casos publicados y no publicados", le dice a BBC Mundo Jaime Torres, jefe de la sección de enfermedades infecciosas del 
+Instituto de Medicina Tropical de la Universidad Central de Venezuela.
+"En 2013 murieron varios bebés recién nacidos como consecuencia de la infección. Pero hay que recordar que los bebés prematuros suelen 
+ser más débiles y suelen tener más problemas de salud", explica. Torres afirma que las personas que sufren un mayor riesgo son aquellas con un 
+sistema inmunitario debilitado o que están ingresadas en el hospital debido a otra enfermedad.
+"No creo que vayamos a vivir una epidemia de Candida auris en Venezuela, pero sí creemos que puede ser una causa de infección en pacientes que 
+ya están enfermos", anticipa. Y Venezuela no es el único país de la región donde se ha reportado la aparición del hongo. En Colombia su presencia 
+fue identificada por primera vez en 2015, cuando se individualizaron tres casos en un hospital de Bogotá, el primero de ellos en un paciente de 
+74 años ingresado en noviembre de 2013. Otros 17 casos fueron reportados en 2017, en un hospital de Valledupar.<br><br>
+  
+  <h3>NUEVOS MEDICAMENTOS</h3>
+  <p class="justificado">				
+  La investigadora Rhodes afirma que los profesionales de la salud en casi todos los países del mundo ya saben cómo identificar las infecciones 
+causadas por Candida auris.
+"Los médicos están mejor preparados, saben qué medicamentos funcionan y cuales no", afirma. Para ella, otra buena noticia es que muchas 
+compañías están empezando a desarrollar drogas y desinfectantes para combatir las nuevas infecciones. Sin embargo, estas drogas tendrán que 
+pasar por ensayos clínicos y ser aprobadas, lo que llevará tiempo. "Somos optimistas de que habrá nuevos antimicóticos que pueden ser efectivos 
+contra el Candida auris", dice la profesora Janiel Nett . "Pero siempre existe la posibilidad de que el Candida auris se desarrolle para combatir
+a este nuevo medicamento o que aparezca un tipo de hongo con mayor resistencia", advierte.<br><br>
+  
+  
+  
+  </p>
+  
+  </div>
+  </div>
+  
+  <h1>TABLA DE PRECIOS</h1>
+  <div class="productos">
+  <table>
+  <tr>
+  <th>PRODUCTO</th>
+  <th>JUMBO</th>
+  <th>TOTTUS</th>
+  </tr>
+  <tr>
+  <td>Leche Colun 1L</td>
+  <td>$859</td>
+  <td>$899</td>
+  </tr>
+  <tr>
+  <td>Arroz Tucapel 1K</td>
+  <td>$1220</td>
+  <td>$1199</td>
+  </tr>
+  <tr>
+  <td>Yoghurt Batido 120g SOPROLE</td>
+  <td>$225</td>
+  <td>$199</td>
+  </tr> 
+  <tr>
+  <td>Aceite Belmont 1L</td>
+  <td>$1898</td>
+  <td>$1299</td>
+  </tr>
+  <tr>
+  <td>P. Higienico Confort 27m 8un</td>
+  <td>$3489</td>
+  <td>$2000</td>
+  </tr>
+  </table>
+  
+  </div>
+  </body>
+  </html>
+
